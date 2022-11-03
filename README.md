@@ -22,7 +22,7 @@ Logic Gates may be simulated with MultiSim by National Instruments as well.
 ![Circuit Diagram](images/NAND_image.jpg "Circuit Diagram") 
 
 **See logic gates in action** Follow this link to see the videos:
-https://photos.google.com/album/AF1QipO8kMxc9jJpLsQQPbcz_IU9iWmHPR9cu3figFdf
+https://photos.app.goo.gl/uA5dxm1MMwWiKfY46
 
 Happy learning.
 
